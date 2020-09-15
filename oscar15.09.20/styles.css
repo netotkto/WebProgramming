@@ -1,0 +1,92 @@
+.header{
+    margin: 0 auto 0 auto;
+    width: 40%;
+    height: 350px;
+    border-radius: 20px 20px 0 0;
+}
+.info{
+    margin: 0 auto 0 auto;
+    width: 40%;
+    height: 120px;
+    background-color: #383838;
+    padding-bottom: 10px;
+    border-radius: 0 0 30px  30px;
+}
+
+.img-first{
+    width: 100%;
+    height: 100%;
+    border: 0 solid black;
+    border-radius: 30px 30px 0 0;
+}
+.image{
+    /*
+    background-image: url("images/back1.jpg");
+     */
+    border: 0 solid black;
+    margin: 0 auto 0 auto;
+    width: 100%;
+    border-radius: 30px 30px 0 0;
+}
+.content{
+    margin: 0 auto 0 auto;
+    width: 40%;
+}
+body{
+    background-color: black;
+    font-family: "Calibri Light";
+
+}
+
+
+p{
+    color: white;
+}
+
+ul{
+    color: white;
+}
+
+.shirt-info{
+    list-style-type: none;
+    padding-left: 20px;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.shirt-info-text{
+    margin-bottom: 5px;
+}
+
+.title{
+    color: white;
+    margin-top: -130px;
+    margin-left: 35px;
+    font-size: 48px;
+    font-family: Calibri;
+
+}
+
+.actors-list{
+    padding-left: 15px;
+}
+
+.info-list{
+    width: 120px;
+    border-bottom: 1.2px solid white;
+    line-height: 1.5;
+}
+
+.footer{
+    background-color: #383838;
+    margin: 0 auto 0 auto;
+    width: 40%;
+    height: 150px;
+    border: 0 solid black;
+    border-radius: 30px;
+}
+
+.footer     {
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
