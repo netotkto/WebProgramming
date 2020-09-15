@@ -34,7 +34,7 @@
 }
 body{
     background-color: black;
-    font-family: "Calibri Light";
+    font-family: "Tahoma", serif;
 
 }
 
@@ -63,16 +63,24 @@ ul{
     margin-top: -130px;
     margin-left: 35px;
     font-size: 48px;
-    font-family: Calibri;
+    font-family: "Tahoma", serif;
 
 }
-
+a{
+    color: white;
+    text-decoration: none;
+}
+a:active{
+    color: white;
+}
+a:focus{
+    color: white;
+}
 .actors-list{
     padding-left: 15px;
 }
 
 .info-list{
-    width: 120px;
     border-bottom: 1.2px solid white;
     line-height: 1.5;
 }
